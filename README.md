@@ -10,6 +10,14 @@ A simple Windows GUI tool for quickly merging multiple `.mp4` videos using FFmpe
 - No re-encoding: merges videos as-is for speed
 - Logging and cleanup utilities
 
+## Demo
+
+Watch below or on [YouTube](#same-demo-on-youtube)
+  
+https://github.com/user-attachments/assets/665e7d74-d6a5-48d6-9e11-6889985804d3
+
+### Same demo on YouTube:
+
 [![ ffmeg-video-quick-merger-gui Demo 2025 08 01 05 31 30 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FfnAvmgr0POk)](https://youtu.be/fnAvmgr0POk)
 
 ## Why No Re-Encoding?
@@ -31,7 +39,7 @@ FFmpeg allows merging videos with small differences in stream properties, such a
 
 ## How Tos
 
-Watch this [rickroll demo](https://youtu.be/fnAvmgr0POk)
+Watch this [rickroll demo](#Demo)
 
 [![ ffmeg-video-quick-merger-gui Demo 2025 08 01 05 31 30 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FfnAvmgr0POk)](https://youtu.be/fnAvmgr0POk)
 
