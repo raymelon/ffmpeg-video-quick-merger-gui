@@ -69,3 +69,15 @@ Or read everything below:
 ---
 
 **Note:** If videos are not compatible, you may need to re-encode them. Use `ffmpeg` for that.
+
+## The following rickroll clips showcased in the demo are works by their respective creators:
+
+- Rick Astley Fan 187 - [Never gonna give you up IN GERMAN!!](https://youtu.be/aPMfVrRwpsw?si=yQXugX8sMuMZbAJs)
+
+- moongazer 07 - [never gonna give you up/rickroll italian version](https://youtu.be/9DImRZERJNs?si=iu1am3SMPdmzjzXH)
+
+- Filda Zajda - [Never Gonna Give You Up (Russian version)](https://youtu.be/2jnSlmePOHw?si=I1bA0uIuUGdviiWZ)
+
+- Martin el Nino - [Rick astley never gonna give you up (spanish) (Rick AI Cover)](https://youtu.be/f9O0jTHLbGU?si=7G5x4IDgjJL6YP8v)
+
+- TimoKek - [Indian Rick Roll](https://www.youtube.com/watch?v=SMlFn3evgYA)
