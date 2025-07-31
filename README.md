@@ -39,11 +39,9 @@ FFmpeg allows merging videos with small differences in stream properties, such a
 
 ## How Tos
 
-Watch this [rickroll demo](#Demo)
+Watch this [demo](#Demo)
 
-[![ ffmeg-video-quick-merger-gui Demo 2025 08 01 05 31 30 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FfnAvmgr0POk)](https://youtu.be/fnAvmgr0POk)
-
-Or:
+Or read everything below:
 
 ### Configuration
 
