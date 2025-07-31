@@ -1,0 +1,23 @@
+# Created by https://www.toptal.com/developers/gitignore/api/powershell
+# Edit at https://www.toptal.com/developers/gitignore?templates=powershell
+
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# End of https://www.toptal.com/developers/gitignore/api/powershell
+
+# repo exclusive
+
+# multimedia
+*.mp3
+*.mp4
+*.avi
+*.mkv
+
+# temporary files
+*.log
+*.ini
