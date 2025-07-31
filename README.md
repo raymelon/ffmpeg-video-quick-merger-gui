@@ -10,6 +10,8 @@ A simple Windows GUI tool for quickly merging multiple `.mp4` videos using FFmpe
 - No re-encoding: merges videos as-is for speed
 - Logging and cleanup utilities
 
+[![ ffmeg-video-quick-merger-gui Demo 2025 08 01 05 31 30 1](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fyoutu.be%2FfnAvmgr0POk)](https://youtu.be/fnAvmgr0POk)
+
 ## Why No Re-Encoding?
 
 This tool is intended for merging hours-long videos quickly. Re-encoding is intentionally omitted to save time and system resources. If you need re-encoding or format conversion, feel free to fork and extend!
@@ -27,7 +29,13 @@ FFmpeg allows merging videos with small differences in stream properties, such a
 - [FFmpeg](https://ffmpeg.org/download.html) (must have `ffmpeg.exe` and `ffprobe.exe`)
 - PowerShell (tested on Windows PowerShell 5.1 and PowerShell Core 6+)
 
-## Configuration
+## How Tos
+
+Watch this [rickroll demo](https://youtu.be/fnAvmgr0POk)
+
+Or:
+
+### Configuration
 
 - On first run, set the FFmpeg directory in the GUI or make/edit [`ffmpeg-gui.ini`](ffmpeg-gui.ini) from [`ffmpeg-gui.ini.local`](ffmpeg-gui.ini.local).
 - Example config:
@@ -36,7 +44,7 @@ FFmpeg allows merging videos with small differences in stream properties, such a
   ```
 - Output is saved as `merged_output.mp4` in the script directory.
 
-## Usage
+### Usage
 
 1. Launch [`ffmpeg-gui.ps1`](ffmpeg-gui.ps1) in PowerShell.
 2. Set the FFmpeg directory if not auto-detected.
